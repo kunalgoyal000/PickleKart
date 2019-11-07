@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "676309863094",
+    "firebase_url": "https://picklekart-547f5.firebaseio.com",
+    "project_id": "picklekart-547f5",
+    "storage_bucket": "picklekart-547f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676309863094:android:e2c0308080e49fd3",
+        "android_client_info": {
+          "package_name": "com.example.picklekart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676309863094-r7omcu13j40gdni2trm0gfbnsghual72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAurZ8pQzgu_sxKuve79qzdukYHxr5a5lM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676309863094-r7omcu13j40gdni2trm0gfbnsghual72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
